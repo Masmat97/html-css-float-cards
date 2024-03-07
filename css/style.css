@@ -21,11 +21,12 @@ h3{
 .col{
     float: left;
     width:calc(100% / 3);
+    padding-left: 10%;
+    
 }
 .col2{
     float: left;
     width: calc(100% / 3);
-}
-div{
+    padding-left: 10%;
     
 }
